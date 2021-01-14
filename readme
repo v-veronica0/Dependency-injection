@@ -1,0 +1,9 @@
+Co bude umět:
+
+- Vytvářet objekty
+-	Nastavovat jim vazby
+
+- hlavní funkcionalita v src/main/java/cz/mendelu/ja/di
+- vhodné použít anotace pro dependency injection, aby to fungovalo 
+- nyní je to jen základní kostra (autopůjčovna kde lze vytvářet zákazníka a půjčovat si auta).
+
