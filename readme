@@ -1,7 +1,6 @@
 Co bude umět:
+- Vytvářet objekty a nastavovat jim vazby
 
-- Vytvářet objekty
--	Nastavovat jim vazby
 
 - hlavní funkcionalita v src/main/java/cz/mendelu/ja/di
 - vhodné použít anotace pro dependency injection, aby to fungovalo 
